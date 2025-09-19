@@ -3,7 +3,7 @@ from math import *
 from time import *
 
 
-def  main():
+def main():
     balance = 100
     while True:
         
@@ -26,7 +26,6 @@ def  main():
 
 if __name__ == "__main__":
     main()
-
 
 
 #🔥💸😘❤️🥰
